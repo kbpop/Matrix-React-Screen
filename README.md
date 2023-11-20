@@ -1,1 +1,3 @@
 # Matrix-React-Screen
+
+This project is there to make a semblance of the matrix screen with the numbers coming down. A couple of ideas for further improvement is adding a slider for changing the speed at which the characters "rain" down or adding ASCII art recognition where if a character is present at the position it is supposed from the ASCII art unto the matrix then to keep it there until all characters were found. As you probably think using random will take a considerable time before a 12 x 12 matrix is found ( rough calculations would be out of 122 options one is the character times 12 so about 1400 times for each column on average it will need to be run. 
